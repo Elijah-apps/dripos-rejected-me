@@ -1,0 +1,14 @@
+Coffee POS Dashboard
+Sidebar
+ # All
+ # Bakery
+ # Cocktail
+ # Cold drinks
+ # Hot Drinks
+ # Merchandise
+ # Gift Cards
+
+ Scheduled Orders
+
+ {Grid layout display of item}
+
